@@ -2,7 +2,7 @@
 - 👋 Hi, I'm Oluwaseyi Adaramola
 - 🔭 I’m interested in Data Analytics
 - 🌱 I’m currently learning Tableau, Power Bi and SQL
-- 👯 I’m looking to collaborate on Data Analysis projects, and Open Source projects
+- 👯 I’m looking to collaborate on Data Analytics projects, and Open Source projects
 - 📫 How to reach me: socratesjnr2000@gmail.com
 
 <!--
